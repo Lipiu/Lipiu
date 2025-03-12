@@ -12,12 +12,10 @@ Here are all my projects that I am working on.
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-          
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src = 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src = 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src = 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src = 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src = 
+<img align="left" alt="git" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+<img align="left" alt="linux" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <!--
 **Lipiu/Lipiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
