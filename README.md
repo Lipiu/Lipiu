@@ -19,7 +19,7 @@ Here are all my projects that I am working on.
 
 #
 
-### Stats
+### 📊 Stats
 ![Lipiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=synthwave)
 
 <!--
