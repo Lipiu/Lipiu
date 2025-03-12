@@ -2,7 +2,7 @@
 
 **`Computer Science student`**
 
-I am currently studying computer science at ASE CSIE. Eager to learn and improve at a fast pace.
+I am currently studying computer science at CSIE.
 Here are all my projects that I am working on.
 
 ---
@@ -21,7 +21,6 @@ Here are all my projects that I am working on.
 
 ### 📊 Stats
 ![Lipiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=synthwave)
-
 <!--
 **Lipiu/Lipiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
