@@ -3,7 +3,7 @@
 **`Computer Science student`**
 
 I am currently studying computer science at CSIE.
-Here are all my projects that I am working on.
+Here you can find all my projects that I am working on.
 
 ---
 
