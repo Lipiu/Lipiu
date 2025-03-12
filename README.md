@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-** 'Computer Science student' **
+**`Computer Science student`**
 
 I am currently studying computer science at ASE CSIE. Eager to learn and improve at a fast pace.
 Here are all my projects that I am working on.
