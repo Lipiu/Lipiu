@@ -21,6 +21,7 @@ Here you can find all my projects that I am working on.
 
 ### 📊 Stats
 ![Lipiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipiu&theme=radical&show_icons=true)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lipiu&repo=github-readme-stats&theme=radical)
 <!--
 **Lipiu/Lipiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
