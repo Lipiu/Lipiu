@@ -20,7 +20,7 @@ Here you can find all my projects that I am working on.
 #
 
 ### 📊 Stats
-![Lipiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipiu&theme=jolly&show_icons=true)
+![Lipiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipiu&theme=shades-of-purple&show_icons=true)
 <!--
 **Lipiu/Lipiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
