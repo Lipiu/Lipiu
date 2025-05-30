@@ -22,7 +22,7 @@ Here you can find all my projects that I am working on.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rosu%20Liviu&theme=violet-dark)](https://git.io/streak-stats)
 
-![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=violet-dark)
+<!--![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=violet-dark)
 <!--
 **Lipiu/Lipiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
