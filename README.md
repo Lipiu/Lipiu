@@ -16,7 +16,6 @@ Here you can find all my projects that I am working on.
 </div>
 <br />
 
-
 ![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=midnight-purple)
 
 #
