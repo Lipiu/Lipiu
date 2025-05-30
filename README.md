@@ -24,9 +24,7 @@ Here you can find all my projects that I am working on.
 
 ### 📊 Stats
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rosu-liviu&theme=codeSTACKr&" alt="Rosu Liviu" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rosu%20Liviu&theme=violet-dark)](https://git.io/streak-stats)
 
 
 <!--
