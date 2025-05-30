@@ -24,7 +24,10 @@ Here you can find all my projects that I am working on.
 
 ### 📊 Stats
 
-![Lipiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipiu&theme=jolly&show_icons=true)
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainea-bogdan&theme=codeSTACKr&" alt="Rosu Liviu" />
+</div>
+
 
 <!--
 **Lipiu/Lipiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
