@@ -20,7 +20,7 @@ Here you can find all my projects that I am working on.
 
 ### 📊 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rosu%20Liviu&theme=violet-dark)](https://git.io/streak-stats)               ![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=midnight-purple)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rosu%20Liviu&theme=violet-dark)](https://git.io/streak-stats)               ![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=violet-dark)
 
 <!--![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=violet-dark)
 <!--
