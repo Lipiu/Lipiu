@@ -12,7 +12,7 @@ Here you can find all my projects that I am working on.
 ### 💻 Languages and tools I use
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lipiu&show_icons=true&locale=en&layout=compact&theme=violet-dark" alt="Lipiu" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lipiu&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Lipiu" />
 </div>
 <br />
 
