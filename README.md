@@ -15,12 +15,13 @@ Here you can find all my projects that I am working on.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lipiu&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Lipiu" />
 </div>
 <br />
+![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=midnight-purple)
 
 #
 
 ### 📊 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rosu%20Liviu&theme=violet-dark)](https://git.io/streak-stats)               ![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=violet-dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rosu%20Liviu&theme=violet-dark)](https://git.io/streak-stats)
 
 <!--![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=violet-dark)
 <!--
