@@ -11,10 +11,20 @@ Here you can find all my projects that I am working on.
 
 ### 💻 Languages I use
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lipiu&bg_color=000&show_icons=true&locale=en&layout=compact&theme=violet-dark&title_color=FE0088&text_color=FE0088&border_color=FE0088" alt="Lipiu" />
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lipiu&bg_color=000&show_icons=true&locale=en&layout=compact&theme=violet-dark&title_color=FE0088&text_color=FE0088&border_color=FE0088&font=" alt="Lipiu" />
 </div>
+<br /> -->
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <br />
+
+##
 
 ![Lipiu's Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&bg_color=000&title_color=FE0088&text_color=FE0088&ring_color=FE0088&show_icons=true&icon_color=c8e3f3&border_color=FE0088)
 
