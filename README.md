@@ -12,18 +12,18 @@ Here you can find all my projects that I am working on.
 ### 💻 Languages I use
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lipiu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Lipiu" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lipiu&show_icons=true&locale=en&layout=compact&theme=youtube-dark" alt="Lipiu" />
 </div>
 <br />
 
-![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=tokyonight)
+![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=youtube-dark)
 
 
 #
 
 ### 📊 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lipiu&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lipiu&theme=youtube-dark)](https://git.io/streak-stats)
 
 <!--![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=violet-dark)
 <!--
