@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![That's literally me](images/img.gif)
+![That's literally me](images/cat.gif)
 
 **`Computer Science student`**
 
