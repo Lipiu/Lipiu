@@ -16,9 +16,7 @@ Here you can find all my projects that I am working on.
 </div>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=dark&title_color=ff00ff&text_color=ffffff&icon_color=ff00ff&bg_color=000000)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=dark&title_color=ff00ff&text_color=ffffff&icon_color=ff00ff&bg_color=000000)
+![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=midnight-purple)
 
 
 #
