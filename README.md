@@ -26,11 +26,11 @@ Here you can find all my projects that I am working on.
 
 ##
 
+### 📊 Stats
 ![Lipiu's Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&bg_color=000&title_color=FE0088&text_color=FE0088&ring_color=FE0088&show_icons=true&icon_color=c8e3f3&border_color=FE0088)
 
 #
 
-### 📊 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lipiu&theme=violet-dark)](https://git.io/streak-stats)
 
