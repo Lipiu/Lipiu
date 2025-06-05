@@ -23,6 +23,9 @@ Here you can find all my projects that I am working on.
 <img align="left" alt="Intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <br />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lipiu&show_icons=true&locale=en&layout=compact&theme=violet-dark" alt="Lipiu" />
+</div>
 
 ##
 
