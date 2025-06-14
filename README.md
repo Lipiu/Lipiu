@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 ![That's literally me](images/cat.gif)
 
