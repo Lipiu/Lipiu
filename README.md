@@ -31,11 +31,6 @@ Here you can find all my projects that I am working on.
 ### 📊 Stats
 ![Lipiu's Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&bg_color=000&title_color=FE0088&text_color=FE0088&ring_color=FE0088&show_icons=true&icon_color=c8e3f3&border_color=FE0088)
 
-#
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-
 <!--![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=violet-dark)
 <!--
 **Lipiu/Lipiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
