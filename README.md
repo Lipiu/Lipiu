@@ -34,7 +34,7 @@ Here you can find all my projects that I am working on.
 #
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=violet-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <!--![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=violet-dark)
 <!--
