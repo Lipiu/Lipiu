@@ -22,6 +22,7 @@ Here you can find all my projects that I am working on.
 <img align="left" alt="Intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" /> -->
 
+<!--
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lipiu&bg_color=000&title_color=FE0088&text_color=FE0088&ring_color=FE0088&show_icons=true&icon_color=c8e3f3&border_color=FE0088" alt="Lipiu" />
 </div>
@@ -30,6 +31,7 @@ Here you can find all my projects that I am working on.
 
 ### 📊 Stats
 ![Lipiu's Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&bg_color=000&title_color=FE0088&text_color=FE0088&ring_color=FE0088&show_icons=true&icon_color=c8e3f3&border_color=FE0088)
+-->
 
 <!--![Lipiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipiu&show_icons=true&theme=violet-dark)
 <!--
