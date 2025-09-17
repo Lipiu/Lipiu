@@ -9,8 +9,6 @@ Here you can find all my projects that I am working on.
 
 ---
 
-### 💻 Languages I use
-
 <!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lipiu&bg_color=000&show_icons=true&locale=en&layout=compact&theme=violet-dark&title_color=FE0088&text_color=FE0088&border_color=FE0088&font=" alt="Lipiu" />
 </div>
